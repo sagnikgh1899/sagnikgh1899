@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagnik Ghosal</h1>
 <h3 align="center">A Data Science enthusiast</h3>
 
-I am Sagnik Ghosal, working as a Senior Analyst at **Capgemini**. I have completed my undergraduate from the Department of Electrical Engineering, Jadavpur University, India (2017-21). I work on Data Scieince, Machine Learning, Computer Vision, Deep Learning, and Bio-Medical Engineering. I primarily code in Python and use the TensorFlow, PyTorch, Keras, Scikit libraries for deep learning and machine learning problems. I also code in R, Java, C and MATLAB. Check out my [Google Scholar](https://scholar.google.com/citations?user=rLkG2NYAAAAJ&hl=en) profile for a detailed understanding of my research interests and complete list of publications.
+**I am Sagnik Ghosal, working as a Senior Analyst at Capgemini. I have completed my undergraduate from the Department of Electrical Engineering, Jadavpur University, India (2017-21). I work on Data Scieince, Machine Learning, Computer Vision, Deep Learning, and Bio-Medical Engineering. I primarily code in Python and use the TensorFlow, PyTorch, Keras, Scikit libraries for deep learning and machine learning problems. I also code in R, Java, C and MATLAB. Check out my [Google Scholar](https://scholar.google.com/citations?user=rLkG2NYAAAAJ&hl=en) profile for a detailed understanding of my research interests and complete list of publications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
