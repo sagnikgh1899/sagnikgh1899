@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikgh1899" alt="sagnikgh1899" /></a> </p>
 
-- 🔭 I’m currently working at **Capgemini**
+I am Hritam Basak, working as a Data Scientist at TATA Digital. I have completed my undergraduate from the Department of Electrical Engineering, Jadavpur University, India (2017-21). I work on Deep Learning applications for Computer Vision applications with a focus on Medical Image Analysis. I primarily code in Python and use the PyTorch, Keras and TensorFlow, Scikit libraries for deep learning and machine learning problems. I use MATLAB occassionally. Check out my Google Scholar profile for a detailed understanding of my research interests and complete list of publications. I am also a reviewer for notable peer-reviewed journals (Publons Profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
