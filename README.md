@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sagnik Ghosal</h1>
 <h3 align="center">A Data Science enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnikgh1899&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikgh1899" /> </p>
+
 **I am Sagnik Ghosal, working as a Senior Analyst at Capgemini. I have completed my undergraduate from the Department of Electrical Engineering, Jadavpur University, India (2017-21). I work on Data Scieince, Machine Learning, Computer Vision, Deep Learning, and Bio-Medical Engineering. I primarily code in Python and use the TensorFlow, PyTorch, Keras, Scikit libraries for deep learning and machine learning problems. I also code in R, Java, C and MATLAB. Check out my [Google Scholar](https://scholar.google.com/citations?user=rLkG2NYAAAAJ&hl=en) profile for a detailed understanding of my research interests and complete list of publications.**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikgh1899&show_icons=true&locale=en&layout=compact" alt="sagnikgh1899" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnikgh1899&show_icons=true&locale=en" alt="sagnikgh1899" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnikgh1899&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikgh1899" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikgh1899" alt="sagnikgh1899" /></a> </p>
